@@ -1,0 +1,10 @@
+# editors
+*~
+.*~
+*.swp
+*.swo
+\#*#
+
+# Build artifacts
+/pkg/
+/src/
